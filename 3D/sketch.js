@@ -3,7 +3,7 @@ let planets=[];
 function preload() {
     img = loadImage('earth.jpg');
   }
-   
+   //kommetar
   function setup() {
     createCanvas(windowWidth, windowHeight, WEBGL);
     ambientLight(50);
